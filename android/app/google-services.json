@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "994040092802",
+    "firebase_url": "https://solid-9cc07-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "solid-9cc07",
+    "storage_bucket": "solid-9cc07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994040092802:android:b4f77bc62b0038ab52bc9b",
+        "android_client_info": {
+          "package_name": "com.example.yeni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994040092802-v7b6ajtnnfppr7th21836lfuev0sicib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPW8E1MWSN8kpiig1-moC7TKIKMHsPjIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994040092802-v7b6ajtnnfppr7th21836lfuev0sicib.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994040092802-2s21ih2ncv8bhr13vi4vpftr0quka1td.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.solid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
