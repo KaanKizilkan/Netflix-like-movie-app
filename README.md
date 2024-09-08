@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 ![](https://github.com/KaanKizilkan/images/blob/main/deneme.gif)
 
-![](https://github.com/user-attachments/assets/50c9dd8e-9957-4915-bbc1-46da2f4a15fe](https://github.com/KaanKizilkan/images/blob/main/search.png)
+
 
 
 This project is a starting point for a Flutter application.
