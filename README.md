@@ -5,6 +5,8 @@ A new Flutter project.
 ## Getting Started
 ![](https://github.com/KaanKizilkan/images/blob/main/deneme.gif)
 
+![alt text](https://github.com/KaanKizilkan/images/blob/main/search.png)
+
 
 
 
