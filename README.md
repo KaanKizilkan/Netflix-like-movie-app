@@ -1,8 +1,9 @@
-# yeni
+# Flutter Netlix like Movie app
 
 A new Flutter project.
 
 ## Getting Started
+![](https://github.com/KaanKizilkan/images/blob/main/deneme.gif)
 
 This project is a starting point for a Flutter application.
 
